@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Cairo Tour Guide</string>
+
+    <!-- Strings for Historical Fragment -->
+    <string name="category_historical">Historical</string>
+    <string name="giza_pyramids">Giza Pyramids</string>
+    <string name="giza_pyramids_address">Al Haram, Nazlet El-Semman, Al Giza Desert, Giza Governorate</string>
+    <string name="cairo_tower">Cairo Tower</string>
+    <string name="cairo_tower_address">Zamalek, Cairo Governorate</string>
+    <string name="egyptian_museum">The Egyptian Museum</string>
+    <string name="egyptian_museum_address">Tahrir Square rd Tahrir Square, Cairo Governorate</string>
+    <string name="al_azhar_mosque">Al-Azhar Mosque</string>
+    <string name="al_azhar_mosque_address">El-Darb El-Ahmar, Cairo Governorate</string>
+    <string name="coptic_museum">The Coptic Museum</string>
+    <string name="coptic_museum_address">3 Mari Gerges, Kom Ghorab, Old Cairo, Cairo Governorate</string>
+
+    <!-- Strings for Hotels Fragment -->
+    <string name="category_hotels">Hotels</string>
+    <string name="steigenberger">Steigenberger Hotel El Tahrir Cairo</string>
+    <string name="steigenberger_address">2 Kasr El Nil st., Tahrir Square, Cairo, Egypt</string>
+    <string name="four_seasons">Four Seasons Hotel Cairo at Nile Plaza</string>
+    <string name="four_seasons_address">1089 Corniche El Nil, Cairo, Egypt</string>
+    <string name="fairmont">Fairmont Nile City Hotel</string>
+    <string name="fairmont_address">Nile City Towers - 2005 B, Corniche El Nil, Cairo, Egypt</string>
+    <string name="conrad">Conrad Cairo</string>
+    <string name="conrad_address">1191 Corniche El Nil, Cairo, Egypt 11221</string>
+    <string name="sheraton">Sheraton Cairo Hotel &#38; Casino</string>
+    <string name="sheraton_address">Galaa Sq, Cairo, Egypt</string>
+
+    <!-- Strings for Shopping Fragment -->
+    <string name="category_shopping">Shopping</string>
+    <string name="porto_cairo">Porto Cairo Mall</string>
+    <string name="porto_cairo_address">Second New Cairo, Cairo Governorate</string>
+    <string name="arkadia">Arkadia Mall</string>
+    <string name="arkadia_address">Nile Corniche, Maspero, Cairo Governorate</string>
+    <string name="citystars">Citystars Mall</string>
+    <string name="citystars_address">Omar Ibn El-Khattab, Masaken Al Mohandesin, Nasr City, Cairo, Egypt</string>
+    <string name="genena">Genena Mall</string>
+    <string name="genena_address">St, off، 9 El-Batrawy، Abbas el-Akkad، St، Nasr City, Cairo Governorate</string>
+    <string name="cairo_festival_city">Cairo Festival City Mall</string>
+    <string name="cairo_festival_city_address">108.04 km، Cairo Festival City Mall, Cairo Festival City, Ring Road, New Cairo, Cairo Governorate</string>
+
+    <!-- Strings for Cafes Fragment -->
+    <string name="category_cafes">Cafes</string>
+    <string name="spectra">Spectra Restaurant &#38; Cafe</string>
+    <string name="spectra_address">El Shagra Park, Cairo, Egypt 11672</string>
+    <string name="cilantro">Cilantro Cafe</string>
+    <string name="cilantro_address">Building 34, 261 Street, New Maadi (26.14 km) 11511 Cairo, Egypt</string>
+    <string name="pottery">Pottery Cafe</string>
+    <string name="pottery_address">Om Kolthoum Tower Hotel، 5 Abou El Feda, Abu Al Feda, Zamalek, Cairo Governorate</string>
+    <string name="beanos">Beanos Cafe</string>
+    <string name="beanos_address">8 Al Sheikh Al Marsafi, St، Zamalek, Cairo Governorate 12654</string>
+    <string name="sufi">Sufi Cafe &#38; Bookstore</string>
+    <string name="sufi_address">Mohammed Mazhar, Zamalek, Cairo Governorate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
